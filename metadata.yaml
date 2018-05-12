@@ -1,0 +1,33 @@
+_repo: La-vie-infernale1.-Pascale-et-Marguerite--2.-Lia-d-Argel-s_36510
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36510-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gaboriau, Emile
+    alias: Gaboriau, Émile
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '172'
+    url: http://www.gutenberg.org/2009/agents/172
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
+    - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36510'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcc 'PQ'
+title: 'La vie infernale
+
+  1. Pascale et Marguerite; 2. Lia d''Argelès'
+url: http://www.gutenberg.org/ebooks/36510
